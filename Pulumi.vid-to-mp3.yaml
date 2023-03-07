@@ -1,0 +1,6 @@
+encryptionsalt: v1:qwgOtwIIL/g=:v1:IRat0IoAceF3Bj6W:S5FtQYVgQkEltWyWBMwG7cv0iIj4Wg==
+config:
+  aws:region: eu-west-1
+  vid-to-mp3:ecrImageMaxDays: "90"
+  vid-to-mp3:ecrImageMaxImages: "5"
+  vid-to-mp3:name: vid-to-mp3
