@@ -1,4 +1,4 @@
-FROM python:3.10.9-slim
+FROM --platform=linux/amd64 python:3.10.9-slim
 MAINTAINER Mikael Allison <mikellallison@hotmail.com>
 WORKDIR /app
 
