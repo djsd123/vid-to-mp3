@@ -30,7 +30,7 @@ Deploys a [Docker] image to an AWS ECR repository
 
 ## Usage
 
-__Deploy to AWS__
+### Deploy to AWS
 
 Set required environment variables
 
@@ -70,7 +70,7 @@ pulumi destroy -y
 ```
 
 
-__Run Locally__
+### Run Locally
 
 Within `src` directory
 
