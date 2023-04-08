@@ -104,6 +104,7 @@ if __name__ == '__main__':
 
         while not os.path.exists(file_path):
             time.sleep(5)
+            print(file_path)
             if os.path.isfile(file_path): break
 
         with open(file_path, 'rb') as file:
